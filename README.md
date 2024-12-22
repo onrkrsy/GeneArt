@@ -1,6 +1,6 @@
 # Gene Art Visualizer
 
-Bu proje, genetik verileri satsal görselleştirmelere dönüştüren interaktif bir web uygulamasıdır. Refik Anadol'un veri sanatı eserlerinden ilham alınarak geliştirilmiştir.
+Bu proje, genetik verileri sanatsal görselleştirmelere dönüştüren interaktif bir web uygulamasıdır. Refik Anadol'un veri sanatı eserlerinden ilham alınarak geliştirilmiştir.
 ## Teknik Özellikler
 ### Kullanılan Teknolojiler
  HTML5 Canvas
