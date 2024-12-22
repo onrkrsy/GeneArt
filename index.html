@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gene Art Visualizer</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/simplex-noise/2.4.0/simplex-noise.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Gene Art Visualizer</h1>
+        <div class="controls">
+            <select id="geneSelect">
+                <option value="ENSG00000012048">BRCA1</option>
+                <option value="ENSG00000139618">BRCA2</option>
+                <!-- Add more genes as needed -->
+            </select>
+            <select id="shapeSelect">
+                <option value="helix">DNA Helix</option>
+                <option value="circle">Circle</option>
+                <option value="wave">Wave</option>
+            </select>
+            <button id="generateBtn">Generate Art</button>
+        </div>
+        <canvas id="artCanvas"></canvas>
+        <div class="info-panel">
+            <h3>Gene Information</h3>
+            <p id="geneInfo"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
