@@ -1,6 +1,8 @@
 # Gene Art Visualizer
 
 Bu proje, genetik verileri sanatsal görselleştirmelere dönüştüren interaktif bir web uygulamasıdır. Refik Anadol'un veri sanatı eserlerinden ilham alınarak geliştirilmiştir.
+![image](https://github.com/user-attachments/assets/6e0d0bee-d801-4cd8-b48a-d97e860d342f)
+
 ## Teknik Özellikler
 ### Kullanılan Teknolojiler
  HTML5 Canvas
